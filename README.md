@@ -7,6 +7,10 @@
 ## Overview
 
 
+<img src="https://github.com/pietrovalente/WEB-applications-vulnerabilities-AWAS/blob/main/images/Login.png"/>
+
+<img src="https://github.com/pietrovalente/WEB-applications-vulnerabilities-AWAS/blob/main/images/Home.png"/>
+
 ## Compile and usability
 
 * I recommend uninstalling MySQL if present on the pc (I had problems)
