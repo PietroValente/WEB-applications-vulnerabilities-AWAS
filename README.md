@@ -6,6 +6,13 @@
 
 ## Overview
 
+Final project for the course Applied WEB application Security. The goal was to create 3 laboratories in which each one needs to carry out a different cyber attack. 
+
+On the index page for each laboratory there is a brief description, followed by the link of the site to be attacked. Test yourself!
+
+At the end of the index page there is a link to the solutions and also at the top of the page there is a link to a youtube video showing them.
+
+In Theoretical explanation.pdf file there is a detailed theoretical explanation of the attacks present in the laboratories.
 
 <img src="https://github.com/pietrovalente/WEB-applications-vulnerabilities-AWAS/blob/main/images/Login.png"/>
 
