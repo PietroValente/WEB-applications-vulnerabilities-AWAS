@@ -14,9 +14,11 @@ At the end of the index page there is a link to the solutions and also at the to
 
 In Theoretical explanation.pdf file there is a detailed theoretical explanation of the attacks present in the laboratories.
 
- <a href="https://github.com/pietrovalente/WEB-applications-vulnerabilities-AWAS/blob/main/images/Login.png"><img src="https://github.com/pietrovalente/WEB-applications-vulnerabilities-AWAS/blob/main/images/Login.png" alt="" width="500px"></a>
-
-<img src="https://github.com/pietrovalente/WEB-applications-vulnerabilities-AWAS/blob/main/images/Home.png"/>
+<p align="center">
+ <a href="https://github.com/pietrovalente/WEB-applications-vulnerabilities-AWAS/blob/main/images/Login.png"><img src="https://github.com/pietrovalente/WEB-applications-vulnerabilities-AWAS/blob/main/images/Login.png" alt="" width="600px"></a>
+ &nbsp;
+ <a href="https://github.com/pietrovalente/WEB-applications-vulnerabilities-AWAS/blob/main/images/Home.png"><img src="https://github.com/pietrovalente/WEB-applications-vulnerabilities-AWAS/blob/main/images/Home.png" alt="" width="600px"></a>
+</p>
 
 ## Compile and usability
 
