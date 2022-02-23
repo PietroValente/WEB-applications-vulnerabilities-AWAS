@@ -16,7 +16,9 @@ In Theoretical explanation.pdf file there is a detailed theoretical explanation 
 
 <p align="center">
  <a href="https://github.com/pietrovalente/WEB-applications-vulnerabilities-AWAS/blob/main/images/Login.png"><img src="https://github.com/pietrovalente/WEB-applications-vulnerabilities-AWAS/blob/main/images/Login.png" alt="" width="600px"></a>
+</p>
 
+<p align="center">
  <a href="https://github.com/pietrovalente/WEB-applications-vulnerabilities-AWAS/blob/main/images/Home.png"><img src="https://github.com/pietrovalente/WEB-applications-vulnerabilities-AWAS/blob/main/images/Home.png" alt="" width="600px"></a>
 </p>
 
