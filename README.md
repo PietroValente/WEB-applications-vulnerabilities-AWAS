@@ -22,7 +22,7 @@ In Theoretical explanation.pdf file there is a detailed theoretical explanation 
  <a href="https://github.com/pietrovalente/WEB-applications-vulnerabilities-AWAS/blob/main/images/Home.png"><img src="https://github.com/pietrovalente/WEB-applications-vulnerabilities-AWAS/blob/main/images/Home.png" alt="" width="600px"></a>
 </p>
 
-## Compile and usability
+## Usability
 
 * I recommend uninstalling MySQL if present on the pc (I had problems)
 * Install EasyPHP-Devserver (v. 17.0)
